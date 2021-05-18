@@ -2,7 +2,7 @@ These are the files to practice hostpath.
 
 Here hostpath will create automatically if directory doesn't exist.
 
-Type cane :
+Type are :
 
 1. DirectoryOrCreate
 2. Directory
