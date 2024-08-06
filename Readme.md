@@ -2,7 +2,7 @@ These are the files to practice hostpath.
 
 Here hostpath will create automatically if directory doesn't exist.
 
-Type are :
+Type are :->
 
 1. DirectoryOrCreate   ---> it means it will create directory if doesn't exist
 2. Directory    ---> it will simply check directory whether it exist or not, but not create directory
