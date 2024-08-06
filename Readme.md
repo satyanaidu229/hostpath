@@ -8,7 +8,7 @@ Type are :->
 2. Directory    ---> it will simply check directory whether it exist or not, but not create directory
 3. FileOrCreate  ---> it will create file if doesn't exist
 4. File   ---> it will simply check if file is there in path, but not create file
-Many
+Many Files
 
 This will create directory inside worker node and map your volume with container volume.
 
